@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootTutorialApplication<spring-boot-tutorial>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.springdemo.spring_boot_tutorial.SpringBootTutorialApplication",
+            "projectName": "spring-boot-tutorial",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
